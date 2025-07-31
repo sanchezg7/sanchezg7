@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building distributed app with React Native and Go<br>🧐 I'm curious about how things work and how to make systems faster<br>🌱 I’m currently learning about data engineering<br>💬 Ask me about domain driven design<br>⚡ Fun fact: I love to dance salsa and bachata
+🔭 I’m currently working on building a distributed app with React Native and Go<br>🧐 I'm curious about how things work and how to make systems faster<br>🌱 I’m currently learning about data engineering<br>💬 Ask me about domain driven design<br>⚡ Fun fact: I love to dance salsa and bachata
 
 
 ## 🌐 Socials:
